@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alfsiezar
 - 👀 I’m interested in casual & competitive gaming, music & sports
-- 🌱 I’m currently enrolled in a Videogame design & programming degree in ESNE
+- 🌱 I’m currently enrolled in a Videogame design & programming degree in UDIT in Madrid, Spain
 - 💞️ I’m looking to collaborate on different interesting projects that can challenge me to become better at programming
 
 <!---
